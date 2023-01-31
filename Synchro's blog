@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <font color="Crimson">
+  <font color="Purple">
+  <font color="Magenta"> 
+  <font color="Blue">
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Synchro's Blog</title>
+    </head>
+    <body>
+       
+        <h1>Synchro's blog</h1>
+        </font>
+        <img src = "https://vistapointe.net/images/synchronized-swimming-3.jpg"width  = "500"> <br>
+
+        <h3>Contents</h3>
+        <ul>
+        <li>Synchronized swimming also called artistic swimming is a sport where swimmers perform a synchronized choreographed routine, accompanied by music. The sport is governed internationally by FINA (the Fédération internationale de natation or International Swimming Federation). It is traditionally a women's sport, although FINA introduced a new mixed gender duet competition that included one male swimmer in each duet at the 2015 World Aquatics Championships and LEN introduced men's individual events at the 2022 European Aquatics Championships.</li>
+        </font>
+        </ul>
+        
+        <h2>First post</h2>
+        <h6>Scull type in 2023</h6>
+       
+        <p>Support Scull <br>
+        Head First Scull <br>
+        Foot First Scull <br>
+        Twirl Scull <br>
+        Propeller Scull <br>
+        Reverse Propeller Scull <br>
+        Spin Scull <br>
+        Split Scull <br></p>
+        </font>
+        
+        <p>Men can compete in Olympic synchronized 
+swimming for the first time at the 2024 Paris Games, World Aquatics said this on 22nd December 2022. Approval from the International Olympic Committee means a maximum of two men can be selected among eight athletes in the team event that is due to include 10 nations.</p>
+        </font>
+              
+    </body>
+</html>
